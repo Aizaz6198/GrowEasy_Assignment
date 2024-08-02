@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Innovative Tech Solutions",
+    "description": "Explore groundbreaking tech solutions and gadgets",
+    "cta": "Learn More",
+    "background": "/adsTemplate/ads1.png"
+  },
+  {
+    "id": 2,
+    "title": "Wellness Tips",
+    "description": "Discover effective tips for a healthier life",
+    "cta": "Read More",
+    "background": "/adsTemplate/ads2.png"
+  },
+  {
+    "id": 3,
+    "title": "Travel Adventures",
+    "description": "Embark on exciting travel adventures and stories",
+    "cta": "Explore Now",
+    "background": "/adsTemplate/ads3.png"
+  },
+  {
+    "id": 4,
+    "title": "Gourmet Cooking",
+    "description": "Master gourmet cooking with top chef classes",
+    "cta": "Sign Up",
+    "background": "/adsTemplate/ads4.png"
+  },
+  {
+    "id": 5,
+    "title": "Fitness Journey",
+    "description": "Start your fitness journey with personalized plans",
+    "cta": "Start Now",
+    "background": "/adsTemplate/ads5.png"
+  },
+  {
+    "id": 6,
+    "title": "Cultural Insights",
+    "description": "Uncover fascinating art and cultural events",
+    "cta": "Discover More",
+    "background": "/adsTemplate/ads6.png"
+  },
+  {
+    "id": 7,
+    "title": "Smart Tech Updates",
+    "description": "Stay updated with the latest in smart technology",
+    "cta": "Learn More",
+    "background": "/adsTemplate/ads1.png"
+  },
+  {
+    "id": 8,
+    "title": "Healthy Habits",
+    "description": "Develop healthy habits for a better lifestyle",
+    "cta": "Read More",
+    "background": "/adsTemplate/ads2.png"
+  },
+  {
+    "id": 9,
+    "title": "Global Travels",
+    "description": "Discover global travel destinations and experiences",
+    "cta": "Explore Now",
+    "background": "/adsTemplate/ads3.png"
+  },
+  {
+    "id": 10,
+    "title": "Cooking Secrets",
+    "description": "Unlock cooking secrets with expert chefs",
+    "cta": "Sign Up",
+    "background": "/adsTemplate/ads4.png"
+  },
+  {
+    "id": 11,
+    "title": "Workout Routines",
+    "description": "Follow effective workout routines for your goals",
+    "cta": "Start Now",
+    "background": "/adsTemplate/ads5.png"
+  },
+  {
+    "id": 12,
+    "title": "Art and Heritage",
+    "description": "Explore the rich heritage of art and culture",
+    "cta": "Discover More",
+    "background": "/adsTemplate/ads6.png"
+  }
+]
